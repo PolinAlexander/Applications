@@ -28,6 +28,8 @@
             // 
             this.RequiredModuleTypes.Add(typeof(AirportsRelationsApp.Module.AirportsRelationsAppModule));
             this.RequiredModuleTypes.Add(typeof(DevExpress.ExpressApp.Win.SystemModule.SystemWindowsFormsModule));
+            this.RequiredModuleTypes.Add(typeof(DevExpress.ExpressApp.Validation.Win.ValidationWindowsFormsModule));
+
         }
 
         #endregion

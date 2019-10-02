@@ -28,6 +28,7 @@ namespace AirportsRelationsApp.Module.BusinessObjects
         public Pilot(Session session) : base(session) { }
 
         [Size(4096)]
+        [RuleRequiredField]
         public string PilotName
         {
             get { return pilotName; }

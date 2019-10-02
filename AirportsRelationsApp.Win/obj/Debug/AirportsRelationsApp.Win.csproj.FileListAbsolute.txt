@@ -64,3 +64,15 @@ D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\obj
 D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\obj\Debug\AirportsRelationsApp.Win.csproj.CopyComplete
 D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\obj\Debug\AirportsRelationsApp.Win.exe
 D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\obj\Debug\AirportsRelationsApp.Win.pdb
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\bin\Debug\DevExpress.ExpressApp.Validation.Win.v19.1.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\bin\Debug\DevExpress.ExpressApp.Validation.v19.1.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\bin\Debug\DevExpress.ExpressApp.Validation.Win.v19.1.xml
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\bin\Debug\DevExpress.ExpressApp.Validation.v19.1.xml
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\bin\Debug\de\DevExpress.ExpressApp.Validation.Win.v19.1.resources.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\bin\Debug\es\DevExpress.ExpressApp.Validation.Win.v19.1.resources.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\bin\Debug\ja\DevExpress.ExpressApp.Validation.Win.v19.1.resources.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\bin\Debug\ru\DevExpress.ExpressApp.Validation.Win.v19.1.resources.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\bin\Debug\de\DevExpress.ExpressApp.Validation.v19.1.resources.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\bin\Debug\es\DevExpress.ExpressApp.Validation.v19.1.resources.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\bin\Debug\ja\DevExpress.ExpressApp.Validation.v19.1.resources.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Win\bin\Debug\ru\DevExpress.ExpressApp.Validation.v19.1.resources.dll

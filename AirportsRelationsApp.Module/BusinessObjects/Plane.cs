@@ -27,6 +27,7 @@ namespace AirportsRelationsApp.Module.BusinessObjects
 
         public Plane(Session session) : base(session) { }
         [Size(4096)]
+        [RuleRequiredField]
         public string PlaneName
         {
             get { return planeName; }

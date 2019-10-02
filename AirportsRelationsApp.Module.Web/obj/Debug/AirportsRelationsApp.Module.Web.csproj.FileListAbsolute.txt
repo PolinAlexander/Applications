@@ -139,3 +139,10 @@ D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module.
 D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module.Web\obj\Debug\AirportsRelationsApp.Module.Web.csproj.CopyComplete
 D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module.Web\obj\Debug\AirportsRelationsApp.Module.Web.dll
 D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module.Web\obj\Debug\AirportsRelationsApp.Module.Web.pdb
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module.Web\bin\Debug\DevExpress.ExpressApp.Validation.v19.1.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module.Web\bin\Debug\DevExpress.ExpressApp.Validation.v19.1.xml
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module.Web\bin\Debug\de\DevExpress.ExpressApp.Validation.v19.1.resources.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module.Web\bin\Debug\es\DevExpress.ExpressApp.Validation.v19.1.resources.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module.Web\bin\Debug\ja\DevExpress.ExpressApp.Validation.v19.1.resources.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module.Web\bin\Debug\ru\DevExpress.ExpressApp.Validation.v19.1.resources.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module.Web\obj\Debug\AirportsRelationsApp.Module.Web.dll.licenses

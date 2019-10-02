@@ -114,3 +114,11 @@ D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module\
 D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module\obj\Debug\AirportsRelationsApp.Module.dll
 D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module\obj\Debug\AirportsRelationsApp.Module.pdb
 D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module\obj\Debug\AirportsRelationsApp.Module.dll.licenses
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module\bin\Debug\DevExpress.ExpressApp.Validation.v19.1.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module\bin\Debug\DevExpress.ExpressApp.Validation.v19.1.xml
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module\bin\Debug\de\DevExpress.ExpressApp.Validation.v19.1.resources.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module\bin\Debug\es\DevExpress.ExpressApp.Validation.v19.1.resources.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module\bin\Debug\ja\DevExpress.ExpressApp.Validation.v19.1.resources.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module\bin\Debug\ru\DevExpress.ExpressApp.Validation.v19.1.resources.dll
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module\obj\Debug\AirportsRelationsApp.Module.AirportsRelationsAppModule.resources
+D:\VSCode\AirportsRelationsApp\AirportsRelationsApp\AirportsRelationsApp.Module\obj\Debug\AirportsRelationsApp.Module.csproj.GenerateResource.cache

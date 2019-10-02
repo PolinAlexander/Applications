@@ -23,18 +23,12 @@ namespace AirportsRelationsApp.Module.BusinessObjects
     public class Airport : BaseObject
     { // Inherit from a different class to provide a custom primary key, concurrency and deletion behavior, etc. (https://documentation.devexpress.com/eXpressAppFramework/CustomDocument113146.aspx).
         private string airportName;
-        private string address;
-        
+        [RuleRequiredField]
         public string AirportName
         {
             get { return airportName; }
             set { SetPropertyValue<string>("AirportName", ref airportName, value); }
-        }
-        public string Address
-        {
-            get { return address; }
-            set { SetPropertyValue<string>("Address", ref address, value); }
-        }
+        }        
         [Association("Airport-Pilots")]
         public XPCollection<Pilot> Pilots { get { return GetCollection<Pilot>("Pilots"); } }
         [Association("Airport-Planes")]
