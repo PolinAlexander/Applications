@@ -28,10 +28,19 @@ namespace AirportsRelationsApp.Module.BusinessObjects
         public Plane(Session session) : base(session) { }
         [Size(4096)]
         [RuleRequiredField]
+        //[RuleValueComparison(DefaultContexts.Save, ValueComparisonType.LessThan, 200)]
         public string PlaneName
-        {
+        {            
             get { return planeName; }
-            set { SetPropertyValue<string>("PlaneName", ref planeName, value); }
+            set
+            {
+                if (value.Length < 200) SetPropertyValue<string>("PlaneName", ref planeName, value);
+                else
+                {
+                    SetPropertyValue<string>("PlaneName", ref planeName, null);
+                    throw new ArgumentOutOfRangeException();
+                }
+            }
         }
         [Association("Airport-Planes")]
         public Airport Airport
