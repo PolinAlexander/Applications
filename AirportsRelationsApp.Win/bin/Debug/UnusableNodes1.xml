@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <ListView Id="Pilot_ListView">
+      <Columns Id="Columns">
+        <ColumnInfo Id="Email" SortIndex="-1" SortOrder="None" />
+        <ColumnInfo Id="FullName" Width="565" Index="1" SortIndex="-1" SortOrder="None" />
+      </Columns>
+    </ListView>
+  </Views>
+</Application>

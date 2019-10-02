@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <ListView Id="Plane_ListView">
+      <Columns Id="Columns">
+        <ColumnInfo Id="Name" Width="271" Index="1" />
+        <ColumnInfo Id="Airport.Name" PropertyName="Airport.Name" Index="-1" Width="317" />
+      </Columns>
+    </ListView>
+  </Views>
+</Application>
